@@ -157,7 +157,7 @@
 }
 
 .ex-11-icon:hover {
-    animation: quarterSpin 2s linear infinite;
+    animation: quarterSpin 2s linear;
 }
 
 @keyframes quarterSpin {
