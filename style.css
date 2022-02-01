@@ -120,6 +120,10 @@
     transition: 2s;
 }
 
+.ex-7-img:hover {
+    filter: sepia(1);
+}
+
 .ex-8-img {
     transition: 2s;
 }
